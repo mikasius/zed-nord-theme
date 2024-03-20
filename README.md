@@ -7,4 +7,4 @@ Feel free to modify this theme.
 
 Place `nord.json` in `~/.config/zed/themes`, restart Zed and select it from the command palette (`Cmd+Shift+P`) or (`Cmd+K Cmd+T`).
 
-![image](./sreenshots/image.png)
+![image](./screenshots/image.png)
