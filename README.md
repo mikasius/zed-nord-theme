@@ -15,4 +15,4 @@ Also this theme was added to [Zed extensions](https://github.com/zed-industries/
 
 ![image](screenshots/nord-dark.png)
 
-![image](sсreenshots/nord-light.png)
+![image](screenshots/nord-light.png)
