@@ -1,7 +1,9 @@
 {
   "name": "Nord theme",
-  "version": "0.0.4",
-  "authors": ["Sergei Metlenkin <s.metlenkin@gmail.com>"],
+  "version": "0.0.5",
+  "authors": [
+    "Sergei Metlenkin <s.metlenkin@gmail.com>"
+  ],
   "description": "Nord themes for Zed",
   "repository": "https://github.com/mikasius/zed-nord-theme"
 }
