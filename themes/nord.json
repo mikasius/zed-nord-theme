@@ -134,8 +134,8 @@
         "unreachable.background": null,
         "unreachable.border": null,
         "warning": "#ebcb8b",
-        "warning.background": null,
-        "warning.border": "#ebcb8b00",
+        "warning.background": "#2e3440",
+        "warning.border": "#ebcb8b",
         "players": [
           {
             "cursor": "#eceff4",
