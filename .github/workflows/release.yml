@@ -2,7 +2,6 @@ on:
   push:
     tags:
       - "v*"
-
 jobs:
   homebrew:
     name: Release Zed Extension
