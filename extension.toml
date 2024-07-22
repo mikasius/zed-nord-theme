@@ -1,0 +1,7 @@
+id = "nord"
+name = "Nord themes"
+version = "0.0.7"
+schema_version = 1
+authors = ["Sergei Metlenkin <s.metlenkin@gmail.com>"]
+description = "Nord themes"
+repository = "https://github.com/mikasius/zed-nord-theme"
