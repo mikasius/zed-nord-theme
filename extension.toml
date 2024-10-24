@@ -1,6 +1,6 @@
 id = "nord"
 name = "Nord themes"
-version = "0.0.11"
+version = "0.0.12"
 schema_version = 1
 authors = ["Sergei Metlenkin <s.metlenkin@gmail.com>"]
 description = "Nord themes"
