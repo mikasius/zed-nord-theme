@@ -191,17 +191,17 @@
             "font_weight": null
           },
           "comment": {
-            "color": "#616E88",
+            "color": "#4C566A",
             "font_style": "italic",
             "font_weight": null
           },
           "comment.doc": {
-            "color": "#616E88",
+            "color": "#4C566A",
             "font_style": "italic",
             "font_weight": null
           },
           "constant": {
-            "color": "#81A1C1",
+            "color": "#D8DEE9",
             "font_style": null,
             "font_weight": null
           },
@@ -301,12 +301,12 @@
             "font_weight": null
           },
           "variable": {
-            "color": "#81A1C1",
+            "color": "#D8DEE9",
             "font_style": null,
             "font_weight": null
           },
           "variable.special": {
-            "color": "#81A1C1",
+            "color": "#D8DEE9",
             "font_style": null,
             "font_weight": null
           }
@@ -458,7 +458,7 @@
         "players": [],
         "syntax": {
           "attribute": {
-            "color": "#0D7579",
+            "color": "#D8DEE9",
             "font_style": null,
             "font_weight": null
           },
