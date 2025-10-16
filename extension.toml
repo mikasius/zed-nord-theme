@@ -1,7 +1,7 @@
 id = "nord"
-name = "Nord themes"
-version = "0.0.14"
+name = "Nord Themes"
+version = "0.1.1"
 schema_version = 1
 authors = ["Sergei Metlenkin <s.metlenkin@gmail.com>"]
-description = "Nord themes"
+description = "Nord color schemes for Zed. Includes light and dark variants."
 repository = "https://github.com/mikasius/zed-nord-theme"
