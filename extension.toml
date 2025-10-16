@@ -1,6 +1,6 @@
 id = "nord"
 name = "Nord Themes"
-version = "0.1.1"
+version = "0.1.2"
 schema_version = 1
 authors = ["Sergei Metlenkin <s.metlenkin@gmail.com>"]
 description = "Nord color schemes for Zed. Includes light and dark variants."
