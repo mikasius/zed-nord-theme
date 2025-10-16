@@ -1,18 +1,18 @@
 {
-  "$schema": "https://zed.dev/schema/themes/v0.1.0.json",
+  "$schema": "https://zed.dev/schema/themes/v0.2.0.json",
   "name": "Nord",
   "author": "Sergei <Mikasius> Metlenkin",
 
   "themes": [
     {
-      "name": "Nord",
+      "name": "Nord Dark",
       "appearance": "dark",
 
       "style": {
         "border": "#3b4252",
         "border.variant": "#4b5262",
-        "border.focused": "#3b4252",
-        "border.selected": "#3b4252",
+        "border.focused": "#6c99a6",
+        "border.selected": "#6c99a6",
         "border.disabled": "#3b4252",
         "border.transparent": "#3b4252",
 
@@ -27,16 +27,16 @@
         "element.disabled": null,
         "drop_target.background": "#6c99a699",
         "ghost_element.background": null,
-        "ghost_element.hover": "#6c99a633",
+        "ghost_element.hover": "#4c566a",
         "ghost_element.active": null,
         "ghost_element.selected": "#6c99a666",
-        "ghost_element.disabled": null,
+        "ghost_element.disabled": "#d8dee933",
 
-        "text": "#fffffffdf",
-        "text.muted": "#ffffffcc",
+        "text": "#ffffffee",
+        "text.muted": "#ffffff77",
         "text.placeholder": "#d8dee966",
-        "text.disabled": "#d8dee933",
-        "text.accent": "#6e91bf",
+        "text.disabled": "#d8dee966",
+        "text.accent": "#88C0D0",
 
         "icon": null,
         "icon.muted": null,
@@ -59,6 +59,7 @@
         "scrollbar.thumb.border": "#434c5e99",
         "scrollbar.track.background": "#2e3440",
         "scrollbar.track.border": "#3b4252",
+
         "editor.foreground": "#d8dee9",
         "editor.background": "#2e3440",
         "editor.gutter.background": "#2e3440",
@@ -309,6 +310,11 @@
             "color": "#D8DEE9",
             "font_style": null,
             "font_weight": null
+          },
+          "property": {
+            "color": "#88C0D0",
+            "font_style": null,
+            "font_weight": null
           }
         }
       }
@@ -316,6 +322,7 @@
     {
       "name": "Nord Light",
       "appearance": "light",
+
       "style": {
         "border": "#e1e4e8",
         "border.variant": "#e1e4e8",
@@ -330,14 +337,14 @@
 
         "element.background": "#159739",
         "element.hover": "#ebf0f4",
-        "element.active": null,
+        "element.active": "#ebf0f4",
         "element.selected": "#e2e5e9",
         "element.disabled": null,
 
         "drop_target.background": null,
         "ghost_element.background": null,
         "ghost_element.hover": "#ebf0f4",
-        "ghost_element.active": null,
+        "ghost_element.active": "#ebf0f4",
         "ghost_element.selected": "#e2e5e9",
         "ghost_element.disabled": null,
 
